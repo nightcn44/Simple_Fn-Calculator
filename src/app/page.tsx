@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-500">
       <div className="bg-white p-6 rounded-2xl shadow-xl w-96 space-y-4">
-        <h1 className="text-2xl font-bold text-center">Simple Calculator</h1>
+        <h1 className="text-2xl font-bold text-center">Calculator</h1>
 
         <input
           type="number"
